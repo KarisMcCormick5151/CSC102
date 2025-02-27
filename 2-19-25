@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Second HTML</title>
 </head>
@@ -11,6 +10,23 @@
 <header>
     <MEMES>
 </header>
-<p>
-    <A meme is an image, video, piece of text, typically humorous in nature, that is copied and spread rapidly by internet users, often with slight variations.>
-</p>
+    <p>
+        A meme is an image, video, piece of text, typically humorous in nature, that is copied and spread rapidly by internet users, often with slight variations.
+    </p>
+<nav>
+    <a href = "http://www.uat.edu">Click for UAT</a>
+</nav>
+    <h1>this is h1</h1>
+<h6>this is h6</h6>
+   <img src = "images for class/"/>
+   <ul>
+        <li>Learn HTML</li>
+        <li>Learn CSS</li>
+        <li>Learn JS</li>
+   </ul>
+   <button>Push this button</button>
+</body>
+<footer>
+<p> Coopyright 2025 JC </p>
+</footer>
+</html>
